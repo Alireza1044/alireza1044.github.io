@@ -14,9 +14,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/alirezamoradi_cv.pdf
+  - title: "About"
+    url: 
+
+  # - title: "CV"
+  #   url: /files/alirezamoradi_cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/

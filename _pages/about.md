@@ -10,8 +10,9 @@ redirect_from:
 {: style="text-align: justify" }
 Currently, I am a B.Sc. student at Iran University of Science and Technology (IUST), and I'm about to finish my 8th semester. My research interests include: **Computer Vision, 3D Vision** and their **applications in robotics** and **healthcare**. I am also interested in **interplay between language and vision**. In May 2020, I joined **Prof. Pilehvar**'s NLP reading group to gain intuitions about research and academic papers. Between September and December 2020, I was working at **Dadmatech Corp.**, Where I developed a neural based solution to convert Persian informal text to formal text. Moreover, In February 2021, I started working on an NLP research project at **Tehran Institute for Advanced Studies (TeIAS)** under the joint supervision of **Prof. Pilehvar** and **Prof. Eetemadi**.
 
-Experience
-----------
+Below is a brief version of my CV. <!-- Full version available [here](/files/CV.pdf). -->
+## Experience
+<!-- ---------- -->
 * **Tehran Institute for Advanced Studies (TeIAS),** Tehran, Iran  
 _Research Assistant Under the Supervision of Prof. Eetemadi, Prof. Pilehvar_  
 February 2021 - Present
@@ -20,10 +21,14 @@ February 2021 - Present
 _Research Intern Under the Supervision of Prof. MohammadTaher Pilehvar_  
 May 2020 - April 2021  
 
-### Iran University of Science and Technology
-#### Teaching Assistant
-----------
+<!-- ### Iran University of Science and Technology -->
+**<span style="font-size:larger;">Iran University of Science and Technology</span>**
+:	Teaching Assistant
+
+***
+
 Some of my experiences as a teaching assistant:  
+
 * **Spring 2021**
 	* Computational Intelligence - Prof. Mozayani
 
@@ -39,8 +44,11 @@ Education
 ----------
 Iran University of Science and Technology
 :	B.Sc. in Computer Engineering  
-2017 - 2022 (Expected)
+2017 - 2022 (Expected)  
+	* Relevant coursework:
+		* **On campus:** Computer Vision, Artificial Intelligence, Computational Intelligence, Signals and Systems, Design and Analysis of Algorithms, Engineering Probability and Statistics
+		* **Online:** Build Basic GANs, Deep Learning Specialization, Convolutional Neural Networks, Sequence Models, Algorithms on Graphs, Algorithms on Strings
 
 Shahid Ejei 1 High School
-:	Diploma  
+:	Diploma in Mathematics and Physics  
 2013 - 2017
