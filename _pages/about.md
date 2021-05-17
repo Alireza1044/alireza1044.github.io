@@ -11,7 +11,11 @@ redirect_from:
 Currently, I am a B.Sc. student at Iran University of Science and Technology (IUST), and I'm about to finish my 8th semester. My research interests include: **Computer Vision, 3D Vision** and their **applications in robotics** and **healthcare**. I am also interested in **interplay between language and vision**. In May 2020, I joined **Prof. Pilehvar**'s NLP reading group to gain intuitions about research and academic papers. Between September and December 2020, I was working at **Dadmatech Corp.**, Where I developed a neural based solution to convert Persian informal text to formal text. Moreover, In February 2021, I started working on an NLP research project at **Tehran Institute for Advanced Studies (TeIAS)** under the joint supervision of **Prof. Pilehvar** and **Prof. Eetemadi**.
 
 Below is a brief version of my CV. <!-- Full version available [here](/files/CV.pdf). -->
-## Experience
+
+<header>
+    <h2 style="margin-bottom: -25px">Experience</h2>
+</header>
+<hr style="border:0.5px solid"/>
 <!-- ---------- -->
 * **Tehran Institute for Advanced Studies (TeIAS),** Tehran, Iran  
 _Research Assistant Under the Supervision of Prof. Eetemadi, Prof. Pilehvar_  
@@ -22,10 +26,14 @@ _Research Intern Under the Supervision of Prof. MohammadTaher Pilehvar_
 May 2020 - April 2021  
 
 <!-- ### Iran University of Science and Technology -->
-**<span style="font-size:larger;">Iran University of Science and Technology</span>**
+<!-- **<span style="font-size:larger;margin-bottom: -25px;">Iran University of Science and Technology</span>**
 :	Teaching Assistant
+<hr style="border:0.5px solid;margin-top: -15px;"/> -->
 
-***
+<header>
+    <h2>Iran University of Science and Technology<br><sup style="font-weight: normal;">Teaching Assistant</sup></h2>
+</header>
+<hr style="border:0.5px solid; margin-top: -27px"/>
 
 Some of my experiences as a teaching assistant:  
 
@@ -40,8 +48,10 @@ Some of my experiences as a teaching assistant:
 	* Artificial Intelligence - Prof. Pilehvar
 	* Algorithms Design - Prof. Eetemadi
 
-Education
-----------
+<header>
+    <h2 style="margin-bottom: -25px">Education</h2>
+</header>
+<hr style="border:0.1px solid"/>
 Iran University of Science and Technology
 :	B.Sc. in Computer Engineering  
 2017 - 2022 (Expected)  
