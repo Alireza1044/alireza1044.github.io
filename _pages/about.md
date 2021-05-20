@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
+tags: [resume,cv,alireza moradi,about,research]
 author_profile: true
 redirect_from: 
   - /about/
