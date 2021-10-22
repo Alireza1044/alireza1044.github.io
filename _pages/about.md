@@ -10,7 +10,7 @@ redirect_from:
 ---
 # About Me
 <p style="text-align: justify;">
-I am a senior B.Sc. student at Iran University of Science and Technology (IUST), majoring in Computer Engineering. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. My interests also lie in the area of <b>Natural Language Processing</b> and the <b>interplay between Language and Vision</b>. During my undergraduate studies, I have enjoyed working with Prof. Vincent Lepetit (TU Graz, May 2021), Prof. MohammadTaher Pilehvar (TeIAS, May 2020), and Prof. Sauleh Eetemadi (IUST, February 2021) on various projects.
+I am a senior B.Sc. student at Iran University of Science and Technology (IUST), majoring in Computer Engineering. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. My interests also lie in the area of <b>Natural Language Processing</b>, specifically the <b>interplay between Language and Vision</b>. During my undergraduate studies, I have enjoyed working with Prof. Vincent Lepetit (TU Graz, May 2021), Prof. MohammadTaher Pilehvar (TeIAS, May 2020), and Prof. Sauleh Eetemadi (IUST, February 2021) on various projects.
 </p>
 
 <header>
@@ -20,32 +20,35 @@ I am a senior B.Sc. student at Iran University of Science and Technology (IUST),
 <!-- ---------- -->
 
 * **Graz University of Technology (TU Graz), Institute of Computer Graphics and Vision (ICG)**, Graz, Austria  
-_Research Assistant Under the Supervision of Prof. Vincent Lepetit_  
-<sup>May 2021 - Present</sup>
+<p style="margin-left:40px;font-size: 16px;margin-top: -20px;"><i>Research Intern Under the Supervision of Prof. Vincent Lepetit</i></p>
+<p style="margin-left:40px;font-size: 13px;margin-top: -22px;">May 2021 - Present</p>
 
-<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -20px;">
-In May 2021, I joined <a href="https://www.tugraz.at/institute/icg/home/">ICG, TU Graz</a> as a research intern, supervised by <a href="https://vincentlepetit.github.io">Prof. Vincent Lepetit</a>. ICG is a prestigious institution and publishes many papers in top-tier Computer Vision conferences such as CVPR and ICCV every year. 3D Vision, particularly planar scene reconstruction, has always been a hot research area as it has various applications in many areas such as Augmented Reality. In this project, we aim to develop a novel method for high-precision 3D planar scene reconstruction.
+<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -18px;">
+In May 2021, I joined <a href="https://www.tugraz.at/institute/icg/home/">ICG, TU Graz</a> as a research intern, supervised by <a href="https://vincentlepetit.github.io">Prof. Vincent Lepetit</a>. ICG is a prestigious institution that publishes many papers in top-tier Computer Vision conferences such as CVPR and ICCV every year. 3D Vision, particularly planar scene reconstruction, has always been a hot research area as it has various applications in many areas such as Augmented Reality. In this project, we aim to develop a novel method for high-precision 3D planar scene reconstruction.
 </p>
 
 
 * **Tehran Institute for Advanced Studies (TeIAS)**, Tehran, Iran  
-_Research Assistant Under the Supervision of Prof. Eetemadi, Prof. Pilehvar_  
-<sup>February 2021 - Present</sup>
-<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -20px;">
+<p style="margin-left:40px;font-size: 16px;margin-top: -20px;"><i>Research Assistant Under the Supervision of Prof. Eetemadi, Prof. Pilehvar</i></p>
+<p style="margin-left:40px;font-size: 13px;margin-top: -22px;">February 2021 - Present</p>
+
+<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -18px;">
 In February 2021, I started working on a research project at TeIAS under the joint supervision of <a href="https://pilehvar.github.io">Prof. Pilehvar</a> and <a href="http://www.sauleh.ir">Prof. Eetemadi</a>. Contemporary state-of-the-art language models, such as BERT and GPT-3, have a massive number of trainable parameters, resulting in lower inference time and large memory footprints. Recent research has proved model compression methods to be effective. This project aims to tackle this problem and design a compression algorithm that results in a model that jointly benefits parameter efficiency and low latency during inference time.
 </p>
 
 * **NLP Reading Group, Tehran Institute for Advanced Studies (TeIAS)**, Tehran, Iran  
-_Research Intern Under the Supervision of Prof. MohammadTaher Pilehvar_  
-<sup>May 2020 - April 2021</sup>
-<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -20px;">
+<p style="margin-left:40px;font-size: 16px;margin-top: -20px;"><i>Research Intern Under the Supervision of Prof. Mohammad Taher Pilehvar</i></p>
+<p style="margin-left:40px;font-size: 13px;margin-top: -22px;">May 2020 - April 2021</p>
+
+<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -18px;">
 In May 2020, I joined Prof. Pilehvar's NLP <a href="https://teias.institute/natural-language-processing-nlp-reading-group">reading group</a>. The main objective of this group was to gain intuition about how to carry out research, mainly around NLP and Machine Learning (particularly Deep Learning). Our tasks included reading papers and writing summaries, and discussing ideas. We also initiated a <a href="https://nlpdataset.ir">website</a> that aims at listing datasets and tools for research and development in Farsi NLP.
 </p>
 
 * **Dadmatech**, Tehran, Iran  
-_Intern_  
-<sup>September 2020 - December 2020</sup>
-<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -20px;">
+<p style="margin-left:40px;font-size: 16px;margin-top: -20px;"><i>Natural Language Processing Intern</i></p>
+<p style="margin-left:40px;font-size: 13px;margin-top: -22px;">September 2020 - December 2020</p>
+
+<p style="margin-left: 80px; text-align: justify; font-size: 16px;margin-top: -18px;">
 Between September and December 2020, I was an intern at Dadmatech, A large start-up that develops AI-based text processing tools for Farsi text. Informal Farsi was formed, over a long time, when people started changing words and verbs while talking, and it gradually found its way to Farsi text as well. As a result, there are no rules to convert an informal Farsi text to a standard text. During my time at Dadmatech, I worked on developing a neural-based solution to convert informal Farsi text to normal text.
 </p>
 
@@ -69,7 +72,7 @@ Some of my experiences as a teaching assistant:
 	* Algorithms Design - Prof. Reza Entezari-Maleki
 
 * **Spring 2020**
-	* [Artificial Intelligence](https://iust-courses.github.io/ai982/) - Prof. MohammadTaher Pilehvar
+	* [Artificial Intelligence](https://iust-courses.github.io/ai982/) - Prof. Mohammad Taher Pilehvar
 	* [Algorithms Design](http://sauleh.github.io/ad98/) - Prof. Sauleh Eetemadi
 
 * **Fall 2019**
