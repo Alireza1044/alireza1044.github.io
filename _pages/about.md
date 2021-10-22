@@ -10,7 +10,7 @@ redirect_from:
 ---
 # About Me
 <p style="text-align: justify;">
-I am a senior B.Sc. student at Iran University of Science and Technology (IUST), majoring in Computer Engineering. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. My interests also lie in the area of <b>Natural Language Processing</b>, specifically the <b>interplay between Language and Vision</b>. During my undergraduate studies, I have enjoyed working with Prof. Vincent Lepetit (TU Graz, May 2021), Prof. MohammadTaher Pilehvar (TeIAS, May 2020), and Prof. Sauleh Eetemadi (IUST, February 2021) on various projects.
+I am a senior B.Sc. student at Iran University of Science and Technology (IUST), majoring in Computer Engineering. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. My interests also lie in the area of <b>Natural Language Processing</b>, specifically the <b>interplay between Language and Vision</b>. During my undergraduate studies, I have enjoyed working with Prof. Vincent Lepetit (TU Graz, May 2021), Prof. Mohammad Taher Pilehvar (TeIAS, May 2020), and Prof. Sauleh Eetemadi (IUST, February 2021) on various projects.
 </p>
 
 <header>
