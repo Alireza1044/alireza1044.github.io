@@ -17,15 +17,12 @@ I am an incoming Computer Science Masters student at <b>Simon Fraser University<
     <h2 style="margin-bottom: -25px">Publications</h2>
 </header>
 <hr style="border:0.5px solid"/>
-<a href="https://arxiv.org/abs/2207.03204"><font size="4"><b>MCTS with Refinement for Proposals Selection Games in Scene Understanding</b></font></a>. <font size="3">Sinisa Stekovic, Mahdi Rad, <b>Alireza Moradi</b>, Friedrich Fraundorfer and Vincent Lepetit.</font>
-\\
-<a href="https://github.com/vevenom/MonteScene"><font size="3">Project Page</font></a>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="https://alireza1044.github.io/BibTex.js"></script>
-<script src="https://alireza1044.github.io/custom_BibTex.js"></script>
+<script src="https://alirezamoradi.me/BibTex.js"></script>
+<script src="https://alirezamoradi.me/custom_BibTex.js"></script>
 <div class="publications"><div id="list_of_publications_here"></div></div>
-<script> bibtex2html_bibfile("https://alireza1044.github.io/list_of_publications.bib", "list_of_publications_here") </script>
+<script> bibtex2html_bibfile("https://alirezamoradi.me/list_of_publications.bib", "list_of_publications_here") </script>
 
 <header>
     <h2 style="margin-bottom: -25px">Experience</h2>
