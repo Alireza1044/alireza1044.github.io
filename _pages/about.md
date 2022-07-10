@@ -17,7 +17,6 @@ I am an incoming Computer Science Masters student at <b>Simon Fraser University<
     <h2 style="margin-bottom: -25px">Publications</h2>
 </header>
 <hr style="border:0.5px solid"/>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="https://alirezamoradi.me/BibTex.js"></script>
 <script src="https://alirezamoradi.me/custom_BibTex.js"></script>
