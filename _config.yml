@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alireza Moradi"
 title_separator          : "-"
 name                     : &name "Alireza Moradi"
-description              : &description "personal description"
+description              : &description "Masters Student at SFU"
 url                      : "https://alirezamoradi.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alireza1044/alireza1044.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "alireza_moradi@sfu.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Alireza-Moradi-29"
   uri              :
   bitbucket        :
   codepen          :
