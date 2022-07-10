@@ -10,7 +10,7 @@ redirect_from:
 ---
 # About Me
 <p style="text-align: justify;">
-I am an incoming Computer Science Masters student at <b>Simon Fraser University</b>, starting Fall 2022. I got my Bachelors degree from Iran University of Science and Technology (IUST) in 2022. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. During my studies, I have enjoyed working with Prof. Vincent Lepetit, Prof. Mohammad Taher Pilehvar, and Prof. Sauleh Eetemadi on various projects.
+I am an incoming Computer Science Masters student at <b>Simon Fraser University</b>, starting Fall 2022. I received my Bachelors degree from Iran University of Science and Technology (IUST) in 2022. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. During my studies, I have enjoyed working with Prof. Vincent Lepetit, Prof. Mohammad Taher Pilehvar, and Prof. Sauleh Eetemadi on various projects.
 </p>
 
 <header>
