@@ -18,10 +18,10 @@ I am an incoming Computer Science Masters student at <b>Simon Fraser University<
 </header>
 <hr style="border:0.5px solid"/>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="https://alirezamoradi.me/BibTex.js"></script>
-<script src="https://alirezamoradi.me/custom_BibTex.js"></script>
+<script src="https://alireza1044.github.io/BibTex.js"></script>
+<script src="https://alireza1044.github.io/custom_BibTex.js"></script>
 <div class="publications"><div id="list_of_publications_here"></div></div>
-<script> bibtex2html_bibfile("https://alirezamoradi.me/list_of_publications.bib", "list_of_publications_here") </script>
+<script> bibtex2html_bibfile("https://alireza1044.github.io/list_of_publications.bib", "list_of_publications_here") </script>
 
 <header>
     <h2 style="margin-bottom: -25px">Experience</h2>
