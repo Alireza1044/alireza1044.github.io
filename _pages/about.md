@@ -10,7 +10,7 @@ redirect_from:
 ---
 # About Me
 <p style="text-align: justify;">
-I am an incoming Computer Science Masters student at <b>Simon Fraser University</b>, starting Fall 2023. I received my Bachelors degree from Iran University of Science and Technology (IUST) in 2022. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. During my studies, I have enjoyed working with Prof. Vincent Lepetit, Prof. Mohammad Taher Pilehvar, and Prof. Sauleh Eetemadi on various projects.
+I am a Masters student at <b>Simon Fraser University</b>, Fall 2023. I received my Bachelors degree from Iran University of Science and Technology (IUST) in 2022. My primary research interests include <b>Computer Vision</b>, <b>3D Vision</b>, and their applications in <b>robotics</b> and <b>self-driving cars</b>. During my studies, I have enjoyed working with Prof. Vincent Lepetit, Prof. Mohammad Taher Pilehvar, and Prof. Sauleh Eetemadi on various projects.
 </p>
 
 <header>
@@ -74,6 +74,9 @@ Between September and December 2020, I was an intern at Dadmatech, A large start
 
 Some of my experiences as a teaching assistant:  
 
+* **Fall 2023**
+	* Introduction to Computer Science and Programming (Python) - Prof. Nicholas Vincent
+
 * **Spring 2021**
 	* Computational Intelligence - Prof. Nasser Mozayani
 
@@ -95,20 +98,21 @@ Some of my experiences as a teaching assistant:
     <h2 style="margin-bottom: -25px">Education</h2>
 </header>
 <hr style="border:0.1px solid"/>
-Simon Fraser University
+Simon Fraser University, <span style="font-weight:normal; font-size: 14px;">Burnaby, BC, Canada</span>
 :	M.Sc. in Professional Computer Science - Visual Computing Concentration  
-Starting September 2023
+September 2023 - April 2025 (expected)
+	* GPA: 4.0/4.0
 
-Iran University of Science and Technology
+Iran University of Science and Technology, <span style="font-weight:normal; font-size: 14px;">Tehran, Iran</span>
 :	B.Sc. in Computer Engineering  
-2017 - 2022
+September 2017 - June 2022
 	* Relevant coursework:
 		* **On campus:** Computer Vision, Artificial Intelligence, Natural Language Processing, Computational Intelligence, Signals and Systems, Design and Analysis of Algorithms, Engineering Probability and Statistics, Research Method and Presentation
 		* **Online:** Build Basic GANs, Deep Learning Specialization, Convolutional Neural Networks, Sequence Models, Algorithms on Graphs, Algorithms on Strings
 
-Shahid Ejei 1 High School
+<!-- Shahid Ejei 1 High School
 :	Diploma in Mathematics and Physics  
-2013 - 2017
+2013 - 2017 -->
 
 <!-- ------
 
